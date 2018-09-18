@@ -1,0 +1,24 @@
+{
+  "name": "completion-time",
+  "version": "1.0.0",
+  "description": "A voice app that uses How Long to Beat API to find the time it takes to complete video games.",
+  "main": "index.js",
+  "dependencies": {
+    "howlongtobeat": "^1.0.11",
+    "jovo-framework": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jovotech/jovo-sample-voice-app-nodejs.git"
+  },
+  "author": "Aakaash Jois",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jovotech/jovo-sample-voice-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/jovotech/jovo-sample-voice-app-nodejs#readme"
+}
