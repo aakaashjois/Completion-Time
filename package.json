@@ -13,12 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jovotech/jovo-sample-voice-app-nodejs.git"
+    "url": "git+https://github.com/aakaashjois/completion-time.git"
   },
   "author": "Aakaash Jois",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/jovotech/jovo-sample-voice-app-nodejs/issues"
+    "url": "https://github.com/aakaashjois/completion-time/issues"
   },
-  "homepage": "https://github.com/jovotech/jovo-sample-voice-app-nodejs#readme"
 }
